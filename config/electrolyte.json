@@ -1,0 +1,16 @@
+{
+    "solvent": {
+        "name": "acetonitrile",
+        "model": "SMD",
+        "eps_r":37.5,
+        "eps_optical":1.806
+    },
+    "reference": {
+        "she_abs": 4.44,
+        "fc_vs_she": 0.40,
+        "fc_abs_computed": null
+    },
+    "potential_window": [-3.0,2.0],
+    "divider": 0.0,
+    "faraday":96485.33
+}

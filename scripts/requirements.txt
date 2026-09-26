@@ -1,0 +1,12 @@
+torch==2.8.0
+fairchem-core
+pyscf
+rdkit
+ase
+geometric
+numpy
+pandas
+matplotlib
+huggingface_hub
+openpyxl
+xtb
